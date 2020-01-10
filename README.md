@@ -30,19 +30,6 @@ pip install unicodecsv
 
 ``` $ python app.py```
 
-## Demo
-
-### 在线演示
-
-[http://kagent.applinzi.com/qqun](http://kagent.applinzi.com/qqun)
-
-### 截图示例
-
-![](https://raw.githubusercontent.com/caspartse/QQ-Groups-Spider/master/screenshots/screenshot_01.png)
-
-![](https://raw.githubusercontent.com/caspartse/QQ-Groups-Spider/master/screenshots/screenshot_02.png)
-
-
 ## 致谢
 
 @小木哥1
