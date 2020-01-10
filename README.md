@@ -16,19 +16,19 @@ QQ Groups Spider（QQ 群爬虫）
 ### 第三方库支持
 
 * [bottle](http://bottlepy.org/)
+pip install bottle
 * [requests](http://python-requests.org)
+pip install requests
 * [simplejson](https://github.com/simplejson/simplejson)
+pip install simplejson
 * [pyexcel-xls](https://github.com/pyexcel/pyexcel-xls)
+pip install pyexcel-xls
 * [unicodecsv](https://github.com/jdunck/python-unicodecsv)
+pip install unicodecsv
 
 ### 本地运行
 
 ``` $ python app.py```
-
-### SAE 上运行
-
-按照 [https://www.sinacloud.com/doc/sae/python/tutorial.html#bottle](https://www.sinacloud.com/doc/sae/python/tutorial.html#bottle) 说明配置即可。
-
 
 ## Demo
 
